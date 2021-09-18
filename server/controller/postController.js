@@ -35,6 +35,8 @@ export const getAllPosts = async (request, response) => {
   }
 };
 
+// getpostdetail
+
 export const getPost = async (request, response) => {
   console.log("1");
   try {
